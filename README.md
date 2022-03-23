@@ -107,6 +107,7 @@ The following operators are sorted in descending order of priority:
 |      `CMP`      | comparision, result is `1.0` for `true` or `0.0` for `false`<br>(`1.0`, `0.0`, `-1.0` for case of `'<=>'`) |
 |      `OR`       |                                           logical 'or' operation                                           |
 |      `AND`      |                                          logical 'and' operation                                           |
+
 The ternary operator `?:` has the lowest priority.
 
 ## SLR(1)
